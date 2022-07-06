@@ -1,0 +1,625 @@
+@media screen and (max-width: 385px) {
+    .con {
+
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin: 0 6%;
+    }
+
+
+
+
+    .home {
+        display: flex;
+        background-color: black;
+        width: 100%;
+        position: fixed;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+
+    .background {
+        background-image: url(../background.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin: 0px 0px 0px 0px;
+        height: 570px;
+        width: 384px;
+    }
+
+    .background h3 {
+
+        color: aliceblue;
+        font-size: 34px;
+        margin: -20px 35px 3px 53px;
+        text-align: center;
+        padding: 2px 1px 0 45px;
+
+    }
+
+    .backgroundimg button {
+        margin: 45px 591px;
+        text-align: center;
+        padding: 13px 35px;
+        border-radius: 30px;
+        font-size: 18px;
+        background-color: skyblue;
+        color: aliceblue;
+    }
+
+    .homehead {
+        color: aliceblue;
+        line-height: 70px;
+        font-size: 41px;
+        margin: -13px 64px 14px 120px;
+    }
+
+    .homehead .e {
+        color: blue;
+    }
+
+    .homespan {
+        margin: 9px 0px 0px 254px;
+        color: aliceblue;
+        word-spacing: 21px;
+
+    }
+
+    .pic1 {
+        width: 300px;
+        border: 1px solid;
+        margin: 30px;
+
+    }
+
+    .pic1 .foo {
+        text-align: center;
+        line-height: 36px;
+    }
+
+    .price1 h2 {
+        font-size: 32px;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    .price {
+        margin: 15px;
+        display: block;
+    }
+
+    .image1 {
+        width: 550px;
+        margin: -7px -2px 1px 3px;
+    }
+
+    .project3 {
+        width: 359px;
+
+
+    }
+
+    .team1 {
+        display: block;
+        justify-content: space-around;
+        margin: 87px 6%;
+
+    }
+
+    .vl3 span {
+        height: 3px;
+        background-color: black;
+        width: 138px;
+        position: absolute;
+        margin: 18px 598px;
+
+    }
+
+    .team h2 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .vl1 span {
+        height: 3px;
+        background-color: black;
+        width: 131px;
+        margin: 0 127px;
+    }
+
+    .about1 {
+        display: block;
+        margin: 39px 0;
+    }
+
+    .about h2 {
+        display: inline-block;
+        font-size: 30px;
+        font-weight: 600;
+        margin: 48px 5px 9px 78px;
+        position: relative;
+        text-transform: capitalize;
+    }
+
+    .image2 {
+        display: block;
+    
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .image21 {
+        display: block;
+    
+        justify-content: space-around;
+    
+    }
+
+    .image22 {
+        display: block;
+        justify-content: space-around;
+
+    }
+
+
+    .image21 img {
+        width: 350px;
+        margin-bottom: 30px;
+    }
+
+    .image22 img {
+        width: 350px;
+        margin-bottom: 30px;
+    }
+
+    .image5 {
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+
+    .image5 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .image5 .img2 {
+        width: 385px;
+    }
+
+    .contact1 {
+        margin: 69px 0;
+    }
+
+    .contact {
+        display: block;
+    
+        line-height: 34px;
+        
+    }
+
+    .contact1 h3 {
+        text-align: center;
+        font-size: 32px;
+    }
+
+
+    .backgroundimg h2 {
+        padding: 223px 0 0 79px;
+        color: aliceblue;
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .about .imame1 {
+        margin: 0px 0px 0px 11px;
+        width: 359px;
+    }
+
+    .project3 p {
+        line-height: 21px;
+        margin: 16px 0px 0px 0px;
+    }
+
+    .project3 .cl {
+        line-height: 35px;
+        margin: 15px 0px 0px 22px;
+        word-spacing: 5px;
+
+    }
+
+    .project3 .cl p {
+        position: relative;
+    }
+
+    .icofont-check::before {
+        color: skyblue;
+    }
+
+    .page11 h3 {
+        font-size: 21px;
+
+    }
+
+    .page11 {
+        width: 328px;
+        text-align: center;
+        margin: 49px;
+
+    }
+
+    .page1 {
+        display: block;
+        justify-content: space-around;
+    }
+
+    .but {
+        text-align: center;
+        padding: 19px 0px 42px 0px;
+        word-spacing: 33px;
+        margin: 45px 0 0 0;
+        line-height: 54px;
+    }
+
+    .portfolio button {
+        background-color: skyblue;
+        border-radius: 34px;
+        padding: 7px 19px;
+    }
+
+    .vl4 span {
+        height: 3px;
+        background-color: black;
+        width: 138px;
+        position: absolute;
+        margin: 20px 598px;
+
+    }
+
+    .portfolio {
+        margin: 85px 0;
+    }
+
+    .portfolio h3 {
+
+        font-size: 40px;
+        font-weight: 600;
+        text-align: center;
+        position: relative;
+        text-transform: capitalize;
+    }
+
+    .services {
+        margin: 85px 0;
+    }
+
+    .services h2 {
+        font-size: 35px;
+        text-align: center;
+
+    }
+
+    .vl2 span {
+        height: 3px;
+        background-color: black;
+        width: 131px;
+        position: absolute;
+        margin: 6px 615px;
+
+    }
+
+    .price21 button {
+        margin: 15px 88px;
+        font-size: 14px;
+        padding: 10px 17px;
+        border-radius: 30px;
+    }
+
+    .price21 {
+        width: 350px;
+        border: 0.5px solid;
+        margin-bottom: 32px;
+
+    }
+
+    .price21 .check {
+        padding: 0 3%;
+
+    }
+
+    .price21 .hd {
+        text-align: center;
+        padding: 8% 0%;
+    }
+
+    .price21 .cross {
+        opacity: 50%;
+        padding: 0 3%;
+    }
+
+    .price .hd h3 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+    .price .hd h2 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: 600;
+    }
+
+
+
+    .pic2 {
+        background-image: url(../img/reviews-bg.jpg);
+        background-size: 100% 542px;
+        background-repeat: no-repeat;
+        margin: 67px 0px 0px 0px;
+        width: 100%;
+        height: 500px;
+        text-align: center;
+    }
+
+    .pic2 h2 {
+        font-size: 24px;
+        color: aliceblue;
+    }
+
+    .pic2 h3 {
+        font-size: 20px;
+        color: aliceblue;
+        line-height: 36px;
+    }
+
+    .pic2 p {
+        text-align: center;
+        color: aliceblue;
+        margin: 26px 95px;
+        font-size: 19px;
+    }
+
+    .pic2 img {
+        width: 145px;
+        border-radius: 100px;
+        border: 7px solid #cccccc70;
+        margin: 71px 0;
+    }
+
+    .news {
+        margin: 90px 0;
+    }
+
+    .news .heading {
+        font-size: 32px;
+        font-weight: 600;
+        text-align: center;
+
+    }
+
+    .news1 {
+        display: block;
+        justify-content: space-around;
+        margin: 76px 0;
+    }
+
+    .news12 button {
+        margin: 17px 78px;
+        padding: 14px 34px;
+        border-radius: 30px;
+    }
+
+    .news12 .paragraph {
+        line-height: 21px;
+    }
+
+    .news12 h3 {
+        font-size: 26px;
+    }
+
+    .news12 p a {
+        text-decoration: none;
+        color: black;
+
+    }
+
+    .news12 p span {
+        padding: 0px 60px;
+        line-height: 34px;
+    }
+
+    .news12 {
+        width: 348px;
+        margin: 15px;
+    }
+
+    .get {
+        background-color: #3EC1D5;
+        line-height: 150px;
+        text-align: center;
+    }
+
+    .get button {
+        padding: 10px 19px;
+        border-radius: 30px;
+        border: none;
+        font-size: 16px;
+
+    }
+
+    .unerine span {
+        height: 2px;
+        width: 20px;
+        text-align: center;
+
+    }
+
+    .contact31 {
+        background-image: url(../img/reviews-bg.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+
+    .contact31 h3 {
+        margin: 12% 0% 0% 5%;
+        font-size: 23px;
+        color: aliceblue;
+    }
+
+    .contact31 h2 {
+        margin: 4% 5%;
+        line-height: 31px;
+        font-size: 19px;
+        font-weight: 600;
+        color: aliceblue;
+    }
+
+    .contact31 button {
+        margin: 0 37px;
+        padding: 12px 31px;
+        border-radius: 30px;
+        font-size: 17px;
+        border: 2px solid aliceblue;
+        color: aliceblue;
+        background-color: #cccccc70;
+    }
+
+    .contact12 {
+        width: 360px;
+    margin: 35px 0;
+    }
+
+    .contact12 a {
+        margin: 0;
+        padding: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+        text-decoration: none;
+        color: black;
+    }
+
+    .get .welcome {
+        color: aliceblue;
+        margin: 3% 4%;
+        font-size: 22px;
+
+    }
+
+    .get .but {
+        padding: 3% 0%;
+    }
+
+    .mapform {
+        display:block;
+        justify-content: space-around;
+    }
+
+    .map2 {
+        width: 384px;
+    }
+
+    .map2 iframe {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .contactlasts {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .form1 {
+        width: 360px;
+        line-height: 54px;
+    }
+
+    .form1 button {
+        margin: 0 228px;
+        padding: 16px;
+        border: 1px solid grey;
+        border-radius: 30px;
+    }
+
+    input,
+    #name {
+        width: 100%;
+        line-height: 30px;
+
+    }
+
+    textarea {
+        width: 100%;
+        height: 91px;
+    }
+
+    .foo h3 {
+        font-size: 24px;
+    }
+
+    .footer1 {
+        width: 330px;
+    }
+
+    .footer2 {
+        width: 330px;
+    }
+
+    .footer3 {
+        width: 330px;
+    }
+
+    .footer1 .e {
+        font-size: 39px;
+        color: #14b5f7;
+        ;
+        font-weight: 700;
+
+    }
+
+    .footer1 .business {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    .footer1 p {
+        line-height: 21px;
+    }
+
+    .footer2 h3 {
+        font-size: 21px;
+        line-height: 42px;
+    }
+
+    .footer3 h3 {
+        font-size: 21px;
+        line-height: 42px;
+    }
+
+    .footer2 .blue {
+        color: #14b5f7;
+        ;
+    }
+
+    .footer2 span {
+        line-height: 39px;
+    }
+
+    .footer2 p {
+        line-height: 20px;
+    }
+
+    .footer2 a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .final {
+        text-align: center;
+    }
+
+
+}
