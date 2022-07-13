@@ -25,9 +25,12 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin: 0px 0px 0px 0px;
-    height: 570px;
+    height: 100vh;
 }
-
+.backgroundimg{
+    background-color: #0000008c;
+    height: 100vh;
+}
 .background h3 {
 
     color: aliceblue;
@@ -355,25 +358,28 @@
     text-align: center;
 }
 
-.pic2 h2 {
+.pic21 h2 {
     font-size: 24px;
     color: aliceblue;
 }
 
-.pic2 h3 {
+.pic21 h3 {
     font-size: 20px;
     color: aliceblue;
     line-height: 36px;
 }
 
-.pic2 p {
+.pic21 p {
     text-align: center;
     color: aliceblue;
     margin: 26px 95px;
     font-size: 19px;
 }
-
-.pic2 img {
+.pic21{
+    background-color: #000000c2;
+    height: 500px;
+}
+.pic21 img {
     width: 145px;
     border-radius: 100px;
     border: 7px solid #cccccc70;
@@ -452,14 +458,16 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
-
-.contact31 h3 {
-    margin: 12% 0% 0% 5%;
+.contact16{
+background-color: #000000bf;
+}
+.contact16 h3 {
+    padding: 12% 0% 0% 5%;
     font-size: 23px;
     color: aliceblue;
 }
 
-.contact31 h2 {
+.contact16 h2 {
     margin: 4% 5%;
     line-height: 31px;
     font-size: 19px;
@@ -467,7 +475,7 @@
     color: aliceblue;
 }
 
-.contact31 button {
+.contact16 button {
     margin: 0 37px;
     padding: 12px 31px;
     border-radius: 30px;

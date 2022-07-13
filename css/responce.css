@@ -11,9 +11,9 @@
 
 
     .home {
-        display: flex;
+        display: block;
         background-color: black;
-        width: 100%;
+        width: 385px;
         position: fixed;
         justify-content: space-around;
         align-items: center;
@@ -25,22 +25,31 @@
         background-size: 100% 100%;
         background-repeat: no-repeat;
         margin: 0px 0px 0px 0px;
-        height: 570px;
+        height: 100vh;
         width: 384px;
     }
 
     .background h3 {
 
         color: aliceblue;
-        font-size: 34px;
-        margin: -20px 35px 3px 53px;
+        font-size: 18px;
+        margin: 0;
         text-align: center;
         padding: 2px 1px 0 45px;
 
     }
+    .backgroundimg{
+        background-color: #0000008c;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
 
     .backgroundimg button {
-        margin: 45px 591px;
+        margin: 0px;
         text-align: center;
         padding: 13px 35px;
         border-radius: 30px;
@@ -53,7 +62,7 @@
         color: aliceblue;
         line-height: 70px;
         font-size: 41px;
-        margin: -13px 64px 14px 120px;
+        margin: 0px;
     }
 
     .homehead .e {
@@ -64,6 +73,7 @@
         margin: 9px 0px 0px 254px;
         color: aliceblue;
         word-spacing: 21px;
+        display: none;
 
     }
 
@@ -207,9 +217,9 @@
 
 
     .backgroundimg h2 {
-        padding: 223px 0 0 79px;
+        padding: 0px;
         color: aliceblue;
-        font-size: 28px;
+        font-size: 20px;
         text-align: center;
     }
 
@@ -362,25 +372,27 @@
         text-align: center;
     }
 
-    .pic2 h2 {
+    .pic21 h2 {
         font-size: 24px;
         color: aliceblue;
     }
 
-    .pic2 h3 {
+    .pic21 h3 {
         font-size: 20px;
         color: aliceblue;
         line-height: 36px;
     }
 
-    .pic2 p {
+    .pic21 p {
         text-align: center;
         color: aliceblue;
         margin: 26px 95px;
         font-size: 19px;
     }
-
-    .pic2 img {
+    .pic21{
+        background-color: #000000c2;
+    }
+    .pic21 img {
         width: 145px;
         border-radius: 100px;
         border: 7px solid #cccccc70;
@@ -454,20 +466,22 @@
         text-align: center;
 
     }
-
+    .contact16{
+        background-color: #000000bf;
+        }
     .contact31 {
         background-image: url(../img/reviews-bg.jpg);
         background-size: 100% 100%;
         background-repeat: no-repeat;
     }
 
-    .contact31 h3 {
+    .contact16 h3 {
         margin: 12% 0% 0% 5%;
         font-size: 23px;
         color: aliceblue;
     }
 
-    .contact31 h2 {
+    .contact16 h2 {
         margin: 4% 5%;
         line-height: 31px;
         font-size: 19px;
@@ -475,7 +489,7 @@
         color: aliceblue;
     }
 
-    .contact31 button {
+    .contact16 button {
         margin: 0 37px;
         padding: 12px 31px;
         border-radius: 30px;
